@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/10/trunk/SDL/test
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/10/trunk/SDL/test/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10/trunk/SDL/test/Makefile.in
+END
+testoverlay2.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10/trunk/SDL/test/testoverlay2.c
+END
+testblitspeed.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10/trunk/SDL/test/testblitspeed.c
+END
+testbitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/10/trunk/SDL/test/testbitmap.c
+END
+sample.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10/trunk/SDL/test/sample.bmp
+END
+testdyngl.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10/trunk/SDL/test/testdyngl.c
+END
+testcursor.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/10/trunk/SDL/test/testcursor.c
+END
+picture.xbm
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10/trunk/SDL/test/picture.xbm
+END
+testfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10/trunk/SDL/test/testfile.c
+END
+testtimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10/trunk/SDL/test/testtimer.c
+END
+graywin.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/10/trunk/SDL/test/graywin.c
+END
+testoverlay.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10/trunk/SDL/test/testoverlay.c
+END
+testhread.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10/trunk/SDL/test/testhread.c
+END
+testsem.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/10/trunk/SDL/test/testsem.c
+END
+threadwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10/trunk/SDL/test/threadwin.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/10/trunk/SDL/test/COPYING
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10/trunk/SDL/test/autogen.sh
+END
+torturethread.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10/trunk/SDL/test/torturethread.c
+END
+testver.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/10/trunk/SDL/test/testver.c
+END
+sample.wav
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10/trunk/SDL/test/sample.wav
+END
+testwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/10/trunk/SDL/test/testwin.c
+END
+testvidinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10/trunk/SDL/test/testvidinfo.c
+END
+testpalette.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10/trunk/SDL/test/testpalette.c
+END
+testjoystick.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10/trunk/SDL/test/testjoystick.c
+END
+testgl.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/10/trunk/SDL/test/testgl.c
+END
+testcdrom.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10/trunk/SDL/test/testcdrom.c
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/10/trunk/SDL/test/configure.in
+END
+testsprite.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/10/trunk/SDL/test/testsprite.c
+END
+moose.dat
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/10/trunk/SDL/test/moose.dat
+END
+checkkeys.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10/trunk/SDL/test/checkkeys.c
+END
+testkeys.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10/trunk/SDL/test/testkeys.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/10/trunk/SDL/test/README
+END
+testiconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10/trunk/SDL/test/testiconv.c
+END
+testloadso.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/10/trunk/SDL/test/testloadso.c
+END
+testgamma.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10/trunk/SDL/test/testgamma.c
+END
+testwm.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/10/trunk/SDL/test/testwm.c
+END
+utf8.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/10/trunk/SDL/test/utf8.txt
+END
+sail.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/10/trunk/SDL/test/sail.bmp
+END
+icon.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/10/trunk/SDL/test/icon.bmp
+END
+testplatform.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10/trunk/SDL/test/testplatform.c
+END
+testalpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10/trunk/SDL/test/testalpha.c
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/10/trunk/SDL/test/acinclude.m4
+END
+testlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10/trunk/SDL/test/testlock.c
+END
+testerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10/trunk/SDL/test/testerror.c
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10/trunk/SDL/test/aclocal.m4
+END
+gcc-fat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10/trunk/SDL/test/gcc-fat.sh
+END
+loopwave.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10/trunk/SDL/test/loopwave.c
+END

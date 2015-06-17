@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/10/trunk/SDL/src/main/macos
+END
+SDL.r
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10/trunk/SDL/src/main/macos/SDL.r
+END
+SDL.shlib.r
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/SDL/src/main/macos/SDL.shlib.r
+END
+SDL_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/SDL/src/main/macos/SDL_main.c
+END
+SIZE.r
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10/trunk/SDL/src/main/macos/SIZE.r
+END

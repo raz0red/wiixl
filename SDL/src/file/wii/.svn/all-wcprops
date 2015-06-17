@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/10/trunk/SDL/src/file/wii
+END
+sdfileio.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10/trunk/SDL/src/file/wii/sdfileio.c
+END
+tff.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10/trunk/SDL/src/file/wii/tff.c
+END
+diskio.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10/trunk/SDL/src/file/wii/diskio.c
+END
+integer.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10/trunk/SDL/src/file/wii/integer.h
+END
+sdfileio.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10/trunk/SDL/src/file/wii/sdfileio.h
+END
+tff.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10/trunk/SDL/src/file/wii/tff.h
+END
+SDL_wiirwops.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/SDL/src/file/wii/SDL_wiirwops.c
+END
+diskio.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10/trunk/SDL/src/file/wii/diskio.h
+END

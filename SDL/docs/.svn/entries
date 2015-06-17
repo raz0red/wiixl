@@ -1,0 +1,49 @@
+8
+
+dir
+25
+http://wiiapple.googlecode.com/svn/trunk/SDL/docs
+http://wiiapple.googlecode.com/svn
+
+
+
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c6be878a-de0f-11dd-8561-ef618b9164eb
+
+html
+dir
+
+images
+dir
+
+index.html
+file
+
+
+
+
+2009-01-31T15:29:23.000000Z
+d7664b1137ae4d90ac9e4a8f4cde3b2b
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+
+man3
+dir
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/10/trunk/SDL/src/audio/dsp
+END
+SDL_dspaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/SDL/src/audio/dsp/SDL_dspaudio.h
+END
+SDL_dspaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/SDL/src/audio/dsp/SDL_dspaudio.c
+END

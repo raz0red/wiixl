@@ -1,0 +1,40 @@
+8
+
+dir
+25
+http://wiiapple.googlecode.com/svn/trunk/SDL/src/main/symbian/EKA1
+http://wiiapple.googlecode.com/svn
+
+
+
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c6be878a-de0f-11dd-8561-ef618b9164eb
+
+SDL_main.cpp
+file
+
+
+
+
+2009-01-31T15:28:53.000000Z
+142ef76460d6bdc5fe62dd259e517574
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+

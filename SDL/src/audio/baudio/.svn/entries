@@ -1,0 +1,52 @@
+8
+
+dir
+25
+http://wiiapple.googlecode.com/svn/trunk/SDL/src/audio/baudio
+http://wiiapple.googlecode.com/svn
+
+
+
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c6be878a-de0f-11dd-8561-ef618b9164eb
+
+SDL_beaudio.h
+file
+
+
+
+
+2009-01-31T15:28:58.000000Z
+e2fef3f3d33d8dac836a3b513cea4375
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+
+SDL_beaudio.cc
+file
+
+
+
+
+2009-01-31T15:28:58.000000Z
+d0973ee25c26b6e0c6ad98438eb9fe89
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+

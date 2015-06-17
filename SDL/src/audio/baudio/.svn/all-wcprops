@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10/trunk/SDL/src/audio/baudio
+END
+SDL_beaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/SDL/src/audio/baudio/SDL_beaudio.h
+END
+SDL_beaudio.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/SDL/src/audio/baudio/SDL_beaudio.cc
+END

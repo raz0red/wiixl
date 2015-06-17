@@ -1,0 +1,40 @@
+8
+
+dir
+25
+http://wiiapple.googlecode.com/svn/trunk/SDL/src/timer/dummy
+http://wiiapple.googlecode.com/svn
+
+
+
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c6be878a-de0f-11dd-8561-ef618b9164eb
+
+SDL_systimer.c
+file
+
+
+
+
+2009-01-31T15:28:51.000000Z
+b9ef7a918e79888bef70d745acc6c08b
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+

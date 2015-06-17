@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/10/trunk/SDL/src/cdrom
+END
+SDL_cdrom.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10/trunk/SDL/src/cdrom/SDL_cdrom.c
+END
+SDL_syscdrom.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10/trunk/SDL/src/cdrom/SDL_syscdrom.h
+END

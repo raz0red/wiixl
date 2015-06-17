@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <app version="1">
+   <name>WiiXL</name>
+   <coder>raz0red</coder>
+   <version>0.1</version>
+   <release_date>200902060000</release_date>
+   <short_description>Atari 800/XL/XE/5200</short_description>
+   <long_description>Wii port of the Atari800 emulator version 2.0.3.
+
+The Atari800 emulator is a free and portable Atari 800/XL/XE/5200 emulator,
+originally written by David Firth and now developed by the Atari800 Development
+Team [http://atari800.sourceforge.net/].
+
+Wii port by raz0red [http://www.twitchasylum.com].<long_description>
+ </app>

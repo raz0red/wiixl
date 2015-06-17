@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10/trunk/SDL/src/video/symbian/EKA1
+END
+SDL_epocvideo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10/trunk/SDL/src/video/symbian/EKA1/SDL_epocvideo.cpp
+END
+SDL_epocvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/trunk/SDL/src/video/symbian/EKA1/SDL_epocvideo.h
+END
+SDL_epocevents.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10/trunk/SDL/src/video/symbian/EKA1/SDL_epocevents.cpp
+END

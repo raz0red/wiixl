@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10/trunk/SDL/src/thread/symbian
+END
+SDL_systhread_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10/trunk/SDL/src/thread/symbian/SDL_systhread_c.h
+END
+SDL_sysmutex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10/trunk/SDL/src/thread/symbian/SDL_sysmutex.cpp
+END
+SDL_syssem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/SDL/src/thread/symbian/SDL_syssem.cpp
+END
+SDL_systhread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10/trunk/SDL/src/thread/symbian/SDL_systhread.cpp
+END

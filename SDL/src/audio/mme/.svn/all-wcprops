@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/10/trunk/SDL/src/audio/mme
+END
+SDL_mmeaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/SDL/src/audio/mme/SDL_mmeaudio.c
+END
+SDL_mmeaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/SDL/src/audio/mme/SDL_mmeaudio.h
+END

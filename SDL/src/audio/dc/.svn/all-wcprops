@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/10/trunk/SDL/src/audio/dc
+END
+SDL_dcaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/SDL/src/audio/dc/SDL_dcaudio.h
+END
+aica.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10/trunk/SDL/src/audio/dc/aica.h
+END
+SDL_dcaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/SDL/src/audio/dc/SDL_dcaudio.c
+END
+aica.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10/trunk/SDL/src/audio/dc/aica.c
+END

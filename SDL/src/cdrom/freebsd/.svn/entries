@@ -1,0 +1,40 @@
+8
+
+dir
+25
+http://wiiapple.googlecode.com/svn/trunk/SDL/src/cdrom/freebsd
+http://wiiapple.googlecode.com/svn
+
+
+
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c6be878a-de0f-11dd-8561-ef618b9164eb
+
+SDL_syscdrom.c
+file
+
+
+
+
+2009-01-31T15:29:00.000000Z
+737568e988df86b1f4355ee2f5166ee2
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+

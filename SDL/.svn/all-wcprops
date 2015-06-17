@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/10/trunk/SDL
+END
+README.NanoX
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/10/trunk/SDL/README.NanoX
+END
+README.NDS
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/10/trunk/SDL/README.NDS
+END
+SDL.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/10/trunk/SDL/SDL.spec.in
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/10/trunk/SDL/Makefile.in
+END
+README.BeOS
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/10/trunk/SDL/README.BeOS
+END
+README.MacOSX
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/10/trunk/SDL/README.MacOSX
+END
+README.Watcom
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/10/trunk/SDL/README.Watcom
+END
+README.CVS
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/10/trunk/SDL/README.CVS
+END
+sdl.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/10/trunk/SDL/sdl.pc.in
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/10/trunk/SDL/CREDITS
+END
+README.MacOS
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/10/trunk/SDL/README.MacOS
+END
+README.OS2
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/10/trunk/SDL/README.OS2
+END
+BUGS
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/10/trunk/SDL/BUGS
+END
+sdl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/10/trunk/SDL/sdl.m4
+END
+README.WinCE
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/10/trunk/SDL/README.WinCE
+END
+Makefile.minimal
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10/trunk/SDL/Makefile.minimal
+END
+Makefile.dc
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/10/trunk/SDL/Makefile.dc
+END
+README.QNX
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/10/trunk/SDL/README.QNX
+END
+README.SVN
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/10/trunk/SDL/README.SVN
+END
+README.MiNT
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/10/trunk/SDL/README.MiNT
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/10/trunk/SDL/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/10/trunk/SDL/COPYING
+END
+VisualC.html
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/10/trunk/SDL/VisualC.html
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/10/trunk/SDL/autogen.sh
+END
+SDL.spec
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/10/trunk/SDL/SDL.spec
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/10/trunk/SDL/.cvsignore
+END
+SDL.qpg.in
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/10/trunk/SDL/SDL.qpg.in
+END
+README.Porting
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/10/trunk/SDL/README.Porting
+END
+MPWmake.sea.bin
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10/trunk/SDL/MPWmake.sea.bin
+END
+Makefile.ds
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/10/trunk/SDL/Makefile.ds
+END
+README.DC
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/10/trunk/SDL/README.DC
+END
+Borland.html
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/10/trunk/SDL/Borland.html
+END
+README.WII
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/10/trunk/SDL/README.WII
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/10/trunk/SDL/configure.in
+END
+README.Qtopia
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/10/trunk/SDL/README.Qtopia
+END
+sdl-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/10/trunk/SDL/sdl-config.in
+END
+README-SDL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/10/trunk/SDL/README-SDL.txt
+END
+docs.html
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/10/trunk/SDL/docs.html
+END
+README.PicoGUI
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/10/trunk/SDL/README.PicoGUI
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/10/trunk/SDL/README
+END
+README.RISCOS
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/10/trunk/SDL/README.RISCOS
+END
+README.Symbian
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/10/trunk/SDL/README.Symbian
+END
+WhatsNew
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/10/trunk/SDL/WhatsNew
+END
+Makefile.wii
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/10/trunk/SDL/Makefile.wii
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/10/trunk/SDL/TODO
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/10/trunk/SDL/acinclude.m4
+END
+README.wscons
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/10/trunk/SDL/README.wscons
+END
+README.AmigaOS
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/10/trunk/SDL/README.AmigaOS
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/10/trunk/SDL/src
+END
+SDL_fatal.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10/trunk/SDL/src/SDL_fatal.h
+END
+SDL_error_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/10/trunk/SDL/src/SDL_error_c.h
+END
+SDL.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/10/trunk/SDL/src/SDL.c
+END
+SDL_fatal.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10/trunk/SDL/src/SDL_fatal.c
+END
+SDL_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10/trunk/SDL/src/SDL_error.c
+END

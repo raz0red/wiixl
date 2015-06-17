@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10/trunk/SDL/src/video/windx5
+END
+SDL_dx5events_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/trunk/SDL/src/video/windx5/SDL_dx5events_c.h
+END
+SDL_dx5video.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/SDL/src/video/windx5/SDL_dx5video.h
+END
+SDL_dx5yuv.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/src/video/windx5/SDL_dx5yuv.c
+END
+directx.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/SDL/src/video/windx5/directx.h
+END
+SDL_dx5events.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10/trunk/SDL/src/video/windx5/SDL_dx5events.c
+END
+SDL_dx5video.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/SDL/src/video/windx5/SDL_dx5video.c
+END
+SDL_dx5yuv_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/SDL/src/video/windx5/SDL_dx5yuv_c.h
+END

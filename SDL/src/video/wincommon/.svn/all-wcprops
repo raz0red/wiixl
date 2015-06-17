@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10/trunk/SDL/src/video/wincommon
+END
+SDL_lowvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/trunk/SDL/src/video/wincommon/SDL_lowvideo.h
+END
+wmmsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/SDL/src/video/wincommon/wmmsg.h
+END
+SDL_sysmouse_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10/trunk/SDL/src/video/wincommon/SDL_sysmouse_c.h
+END
+SDL_wingl.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/SDL/src/video/wincommon/SDL_wingl.c
+END
+SDL_syswm.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/SDL/src/video/wincommon/SDL_syswm.c
+END
+SDL_sysevents.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10/trunk/SDL/src/video/wincommon/SDL_sysevents.c
+END
+SDL_sysmouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/trunk/SDL/src/video/wincommon/SDL_sysmouse.c
+END
+SDL_wingl_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/SDL/src/video/wincommon/SDL_wingl_c.h
+END
+SDL_syswm_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/SDL/src/video/wincommon/SDL_syswm_c.h
+END

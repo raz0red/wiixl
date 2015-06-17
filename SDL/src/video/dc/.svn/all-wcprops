@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/10/trunk/SDL/src/video/dc
+END
+SDL_dcvideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/SDL/src/video/dc/SDL_dcvideo.c
+END
+SDL_dcmouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/SDL/src/video/dc/SDL_dcmouse.c
+END
+SDL_dcevents_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/src/video/dc/SDL_dcevents_c.h
+END
+SDL_dcvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/SDL/src/video/dc/SDL_dcvideo.h
+END
+SDL_dcmouse_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/SDL/src/video/dc/SDL_dcmouse_c.h
+END
+SDL_dcevents.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/SDL/src/video/dc/SDL_dcevents.c
+END

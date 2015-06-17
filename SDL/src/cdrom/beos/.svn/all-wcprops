@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/10/trunk/SDL/src/cdrom/beos
+END
+SDL_syscdrom.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/SDL/src/cdrom/beos/SDL_syscdrom.cc
+END

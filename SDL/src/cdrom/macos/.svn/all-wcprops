@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10/trunk/SDL/src/cdrom/macos
+END
+SDL_syscdrom.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/SDL/src/cdrom/macos/SDL_syscdrom.c
+END
+SDL_syscdrom_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10/trunk/SDL/src/cdrom/macos/SDL_syscdrom_c.h
+END

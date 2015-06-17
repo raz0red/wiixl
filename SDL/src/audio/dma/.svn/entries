@@ -1,0 +1,52 @@
+8
+
+dir
+25
+http://wiiapple.googlecode.com/svn/trunk/SDL/src/audio/dma
+http://wiiapple.googlecode.com/svn
+
+
+
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c6be878a-de0f-11dd-8561-ef618b9164eb
+
+SDL_dmaaudio.c
+file
+
+
+
+
+2009-01-31T15:28:58.000000Z
+eaac85c4e7b29c1a4fcfa575fcec6cdd
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+
+SDL_dmaaudio.h
+file
+
+
+
+
+2009-01-31T15:28:58.000000Z
+294e7c199ad9c6a20ba42e7378b31c01
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+

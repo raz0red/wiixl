@@ -1,0 +1,1211 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/10/trunk/SDL/docs/html
+END
+general.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10/trunk/SDL/docs/html/general.html
+END
+sdlgetrgba.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlgetrgba.html
+END
+sdlcdtrack.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcdtrack.html
+END
+sdlgetcursor.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlgetcursor.html
+END
+sdlsemvalue.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlsemvalue.html
+END
+sdlmutexp.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlmutexp.html
+END
+sdlvideoinfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlvideoinfo.html
+END
+sdlthreadid.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlthreadid.html
+END
+sdlcreatemutex.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcreatemutex.html
+END
+sdlgeteventfilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlgeteventfilter.html
+END
+sdlgetkeystate.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlgetkeystate.html
+END
+sdladdtimer.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdladdtimer.html
+END
+sdlgetmousestate.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlgetmousestate.html
+END
+sdlsetmodstate.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlsetmodstate.html
+END
+sdlsavebmp.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlsavebmp.html
+END
+sdljoysticknumhats.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdljoysticknumhats.html
+END
+sdlpauseaudio.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlpauseaudio.html
+END
+cdrom.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10/trunk/SDL/docs/html/cdrom.html
+END
+sdlseteventfilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlseteventfilter.html
+END
+sdlgetaudiostatus.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlgetaudiostatus.html
+END
+sdlpollevent.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlpollevent.html
+END
+sdlsemtrywait.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlsemtrywait.html
+END
+sdlglswapbuffers.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlglswapbuffers.html
+END
+sdlunlockaudio.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlunlockaudio.html
+END
+sdlsetcolors.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlsetcolors.html
+END
+sdluserevent.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdluserevent.html
+END
+sdloverlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdloverlay.html
+END
+sdlwarpmouse.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlwarpmouse.html
+END
+sdlvideodrivername.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlvideodrivername.html
+END
+sdljoystickgetaxis.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdljoystickgetaxis.html
+END
+sdlcd.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcd.html
+END
+sdlcloseaudio.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcloseaudio.html
+END
+sdljoyaxisevent.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdljoyaxisevent.html
+END
+guideeventexamples.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/SDL/docs/html/guideeventexamples.html
+END
+joystick.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10/trunk/SDL/docs/html/joystick.html
+END
+sdlrect.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlrect.html
+END
+sdldelay.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdldelay.html
+END
+sdlsetgamma.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlsetgamma.html
+END
+sdllockyuvoverlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdllockyuvoverlay.html
+END
+sdlremovetimer.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlremovetimer.html
+END
+sdlwmgrabinput.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlwmgrabinput.html
+END
+sdlcdeject.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcdeject.html
+END
+sdljoystickeventstate.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdljoystickeventstate.html
+END
+sdlfillrect.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlfillrect.html
+END
+sdlcreatergbsurface.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcreatergbsurface.html
+END
+sdlmaprgb.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlmaprgb.html
+END
+sdlcreateyuvoverlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcreateyuvoverlay.html
+END
+sdlgetrgb.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlgetrgb.html
+END
+sdlactiveevent.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlactiveevent.html
+END
+sdlcolor.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcolor.html
+END
+sdlwasinit.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlwasinit.html
+END
+sdlloadbmp.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlloadbmp.html
+END
+sdlmousemotionevent.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlmousemotionevent.html
+END
+sdlcondsignal.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcondsignal.html
+END
+sdljoystickopen.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdljoystickopen.html
+END
+sdlcdplaytracks.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcdplaytracks.html
+END
+sdlsyswmevent.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlsyswmevent.html
+END
+sdlcdpause.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcdpause.html
+END
+sdlkey.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlkey.html
+END
+sdlsurface.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlsurface.html
+END
+guideexamples.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/SDL/docs/html/guideexamples.html
+END
+sdlflip.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlflip.html
+END
+reference.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10/trunk/SDL/docs/html/reference.html
+END
+sdlwaitthread.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlwaitthread.html
+END
+audio.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10/trunk/SDL/docs/html/audio.html
+END
+sdlsetalpha.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlsetalpha.html
+END
+sdlgetcliprect.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlgetcliprect.html
+END
+sdlwaitevent.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlwaitevent.html
+END
+sdlwmtogglefullscreen.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlwmtogglefullscreen.html
+END
+sdlcdopen.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcdopen.html
+END
+sdlaudiospec.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlaudiospec.html
+END
+sdlcdclose.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcdclose.html
+END
+sdlaudiocvt.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlaudiocvt.html
+END
+sdljoystickclose.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdljoystickclose.html
+END
+sdlglloadlibrary.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlglloadlibrary.html
+END
+sdlgetkeyname.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlgetkeyname.html
+END
+sdlsempost.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlsempost.html
+END
+sdlpixelformat.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlpixelformat.html
+END
+guide.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10/trunk/SDL/docs/html/guide.html
+END
+sdlloadwav.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlloadwav.html
+END
+sdlfreewav.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlfreewav.html
+END
+sdljoystickname.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdljoystickname.html
+END
+sdlwmgetcaption.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlwmgetcaption.html
+END
+sdlgetgammaramp.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlgetgammaramp.html
+END
+sdlcreatesemaphore.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcreatesemaphore.html
+END
+sdlwmseticon.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlwmseticon.html
+END
+sdlcondwait.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcondwait.html
+END
+sdldestroymutex.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdldestroymutex.html
+END
+sdlwmsetcaption.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlwmsetcaption.html
+END
+sdlsetgammaramp.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlsetgammaramp.html
+END
+sdlfreecursor.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlfreecursor.html
+END
+sdlgetvideosurface.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlgetvideosurface.html
+END
+sdlgetmodstate.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlgetmodstate.html
+END
+sdleventstate.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdleventstate.html
+END
+sdlupdaterects.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlupdaterects.html
+END
+sdlopenaudio.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlopenaudio.html
+END
+sdlcdnumdrives.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcdnumdrives.html
+END
+sdlcdname.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcdname.html
+END
+sdlsetcursor.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlsetcursor.html
+END
+sdlgeterror.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlgeterror.html
+END
+sdljoystickopened.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdljoystickopened.html
+END
+sdlcreatergbsurfacefrom.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcreatergbsurfacefrom.html
+END
+sdlwmiconifywindow.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlwmiconifywindow.html
+END
+sdlsettimer.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlsettimer.html
+END
+sdldestroycond.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdldestroycond.html
+END
+sdljoyballevent.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdljoyballevent.html
+END
+sdlunlockyuvoverlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlunlockyuvoverlay.html
+END
+sdllocksurface.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdllocksurface.html
+END
+sdljoystickupdate.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdljoystickupdate.html
+END
+sdlkeyboardevent.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlkeyboardevent.html
+END
+sdlresizeevent.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlresizeevent.html
+END
+sdlinit.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlinit.html
+END
+sdlsetcolorkey.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlsetcolorkey.html
+END
+thread.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10/trunk/SDL/docs/html/thread.html
+END
+sdlcdresume.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcdresume.html
+END
+guidecredits.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/SDL/docs/html/guidecredits.html
+END
+sdlsemwait.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlsemwait.html
+END
+sdllockaudio.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdllockaudio.html
+END
+sdlsetpalette.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlsetpalette.html
+END
+sdldisplayyuvoverlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdldisplayyuvoverlay.html
+END
+guidecdromexamples.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/SDL/docs/html/guidecdromexamples.html
+END
+event.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10/trunk/SDL/docs/html/event.html
+END
+sdlpeepevents.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlpeepevents.html
+END
+guidevideo.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/SDL/docs/html/guidevideo.html
+END
+sdlkeysym.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlkeysym.html
+END
+sdlquitevent.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlquitevent.html
+END
+sdlmousebuttonevent.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlmousebuttonevent.html
+END
+guidevideoopengl.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/SDL/docs/html/guidevideoopengl.html
+END
+sdlcdstatus.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcdstatus.html
+END
+sdlglgetprocaddress.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlglgetprocaddress.html
+END
+sdlcdstop.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcdstop.html
+END
+sdljoysticknumballs.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdljoysticknumballs.html
+END
+sdlglattr.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlglattr.html
+END
+sdljoybuttonevent.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdljoybuttonevent.html
+END
+sdljoyhatevent.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdljoyhatevent.html
+END
+sdlupdaterect.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlupdaterect.html
+END
+guidebasicsinit.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/SDL/docs/html/guidebasicsinit.html
+END
+sdlpumpevents.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlpumpevents.html
+END
+guidetimeexamples.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10/trunk/SDL/docs/html/guidetimeexamples.html
+END
+sdlmaprgba.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlmaprgba.html
+END
+guideinput.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/SDL/docs/html/guideinput.html
+END
+sdlcdplay.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcdplay.html
+END
+sdldisplayformat.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdldisplayformat.html
+END
+sdlcondwaittimeout.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcondwaittimeout.html
+END
+sdlsemwaittimeout.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlsemwaittimeout.html
+END
+wm.html
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/10/trunk/SDL/docs/html/wm.html
+END
+sdlpushevent.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlpushevent.html
+END
+sdlinitsubsystem.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlinitsubsystem.html
+END
+sdlgetvideoinfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlgetvideoinfo.html
+END
+eventstructures.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/SDL/docs/html/eventstructures.html
+END
+sdlquit.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlquit.html
+END
+sdlkillthread.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlkillthread.html
+END
+sdlgetthreadid.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlgetthreadid.html
+END
+sdldisplayformatalpha.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdldisplayformatalpha.html
+END
+sdlfreeyuvoverlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlfreeyuvoverlay.html
+END
+sdlmutexv.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlmutexv.html
+END
+sdlconvertsurface.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlconvertsurface.html
+END
+sdljoystickgetball.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdljoystickgetball.html
+END
+sdlfreesurface.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlfreesurface.html
+END
+sdljoystickgetbutton.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdljoystickgetbutton.html
+END
+guideinputkeyboard.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/SDL/docs/html/guideinputkeyboard.html
+END
+sdlenableunicode.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlenableunicode.html
+END
+sdljoysticknumbuttons.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdljoysticknumbuttons.html
+END
+sdlpalette.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlpalette.html
+END
+sdlquitsubsystem.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlquitsubsystem.html
+END
+sdlconvertaudio.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlconvertaudio.html
+END
+sdlnumjoysticks.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlnumjoysticks.html
+END
+sdlblitsurface.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlblitsurface.html
+END
+sdlunlocksurface.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlunlocksurface.html
+END
+sdlvideomodeok.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlvideomodeok.html
+END
+sdlcreatecond.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcreatecond.html
+END
+guideaudioexamples.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/SDL/docs/html/guideaudioexamples.html
+END
+sdlgetticks.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlgetticks.html
+END
+guideaboutsdldoc.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/SDL/docs/html/guideaboutsdldoc.html
+END
+sdlshowcursor.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlshowcursor.html
+END
+sdlmixaudio.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlmixaudio.html
+END
+guidethebasics.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/guidethebasics.html
+END
+guidepreface.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/SDL/docs/html/guidepreface.html
+END
+sdlgetappstate.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlgetappstate.html
+END
+sdlevent.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlevent.html
+END
+sdlsetcliprect.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlsetcliprect.html
+END
+sdlenvvars.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlenvvars.html
+END
+sdlgetrelativemousestate.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlgetrelativemousestate.html
+END
+sdlglgetattribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlglgetattribute.html
+END
+sdljoystickindex.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdljoystickindex.html
+END
+sdlsetvideomode.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlsetvideomode.html
+END
+sdlcreatethread.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcreatethread.html
+END
+time.html
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10/trunk/SDL/docs/html/time.html
+END
+sdljoystickgethat.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdljoystickgethat.html
+END
+sdldestroysemaphore.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdldestroysemaphore.html
+END
+sdlbuildaudiocvt.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlbuildaudiocvt.html
+END
+sdljoysticknumaxes.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdljoysticknumaxes.html
+END
+sdlenablekeyrepeat.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlenablekeyrepeat.html
+END
+sdlcreatecursor.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcreatecursor.html
+END
+sdlglsetattribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlglsetattribute.html
+END
+sdllistmodes.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdllistmodes.html
+END
+video.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10/trunk/SDL/docs/html/video.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10/trunk/SDL/docs/html/index.html
+END
+sdlexposeevent.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlexposeevent.html
+END
+sdlcondbroadcast.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/SDL/docs/html/sdlcondbroadcast.html
+END
+eventfunctions.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SDL/docs/html/eventfunctions.html
+END

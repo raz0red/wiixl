@@ -1,0 +1,529 @@
+8
+
+dir
+25
+http://wiiapple.googlecode.com/svn/trunk/SDL/src/video
+http://wiiapple.googlecode.com/svn
+
+
+
+2009-01-18T15:20:57.512903Z
+8
+yohanes
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c6be878a-de0f-11dd-8561-ef618b9164eb
+
+gapi
+dir
+
+SDL_blit.h
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+f79a8f736bfb9bc09d46e7eaef3c93b6
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+os2fslib
+dir
+
+xbios
+dir
+
+SDL_yuv_sw_c.h
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+ac37dfb7a522cbd78fe859b81fab65b5
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+mmx.h
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+03193bd451f39cd0c9f105faa840773f
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+
+SDL_leaks.h
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+27059b824d34aa26f83cefd7e41ec46b
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+SDL_blit_N.c
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+2656294ca117d6ba6748e41df359d57d
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+dga
+dir
+
+picogui
+dir
+
+SDL_cursor.c
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+ed81abe395e3fad0f9d0cb0663baa08e
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+SDL_bmp.c
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+18e34edcb5b02a1af41e5ae3f068ad91
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+riscos
+dir
+
+SDL_RLEaccel_c.h
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+37c45769dec9c88c3c2fa806dfb7d8bd
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+SDL_stretch_c.h
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+149f69a2671b9d0218685ac3efb2f1bb
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+wincommon
+dir
+
+photon
+dir
+
+macdsp
+dir
+
+gem
+dir
+
+blank_cursor.h
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+38f5c42f2c8ed22e74c491ebbaa171dc
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+SDL_yuvfuncs.h
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+01fc8e0beb66b3ccbd722b33a1df3665
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+wscons
+dir
+
+macrom
+dir
+
+SDL_yuv_sw.c
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+d5b48dfd195598a79d4bb34ff3b33b10
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+directfb
+dir
+
+e_sqrt.h
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+69b3181c5732ff09338bfcf238d021ca
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+
+quartz
+dir
+
+SDL_yuv_mmx.c
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+e10cb6ff3853d586bdb4f174db2a9155
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+vgl
+dir
+
+wii
+dir
+
+SDL_blit_1.c
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+55d00dc1bdf6120c69bcde1daa860d26
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+SDL_RLEaccel.c
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+eb75ae945060a960b7b882a8b36fe79c
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+SDL_pixels_c.h
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+6cc7ee2983482db5f2a6a6de8c1afb66
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+SDL_stretch.c
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+12ae057e406f0c9d2f5ac749693862a5
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+svga
+dir
+
+SDL_yuv.c
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+a0e054fc0907bbd5a465668d4a4861d7
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+SDL_cursor_c.h
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+93c26b5b542073246798b38c512d5180
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+ataricommon
+dir
+
+maccommon
+dir
+
+windib
+dir
+
+SDL_blit_A.c
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+5056f32817e39c617f435f4588120baf
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+nds
+dir
+
+dc
+dir
+
+SDL_pixels.c
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+b3a5ca9d27d21e64789cb10edd750078
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+SDL_video.c
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+1149d84d0346ce8f5ccc4525489c32ac
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+ggi
+dir
+
+default_cursor.h
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+81dd0a67e37286dd0afa13d7f1a0c670
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+math_private.h
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+e96ec2a1cbf86fae8cee5e300e953cdc
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+
+e_log.h
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+458b752f4f601861253dfce425443a15
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+
+SDL_surface.c
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+4c7dd533a66e47cb42e0f59b77aa5d46
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+nanox
+dir
+
+fbcon
+dir
+
+Xext
+dir
+
+SDL_glfuncs.h
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+1a003f68c62007c84fef99852b5ef46d
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+
+dummy
+dir
+
+ipod
+dir
+
+SDL_blit_0.c
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+834a971dc512518c5feecfd1d504c7f7
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+qtopia
+dir
+
+SDL_sysvideo.h
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+ffb4ebda1c2532db9181cc6ac849e428
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+ps2gs
+dir
+
+e_pow.h
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+d14608901693398abb193cea1f9a0a6c
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+
+symbian
+dir
+
+SDL_gamma.c
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+4fc51be39ce07c6559ad70971128cd09
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+aalib
+dir
+
+x11
+dir
+
+bwindow
+dir
+
+SDL_blit.c
+file
+
+
+
+
+2009-01-31T15:29:10.000000Z
+2d2b8aa1edb34ab083b5e3708865d647
+2009-01-09T20:47:12.112943Z
+4
+jendave.hudson
+
+windx5
+dir
+

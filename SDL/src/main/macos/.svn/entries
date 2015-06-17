@@ -1,0 +1,79 @@
+8
+
+dir
+25
+http://wiiapple.googlecode.com/svn/trunk/SDL/src/main/macos
+http://wiiapple.googlecode.com/svn
+
+
+
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c6be878a-de0f-11dd-8561-ef618b9164eb
+
+SDL.r
+file
+
+
+
+
+2009-01-31T15:28:53.000000Z
+1e714774b227bf2a9695cbcba7e6089a
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+
+SDL.shlib.r
+file
+
+
+
+
+2009-01-31T15:28:53.000000Z
+80703db4044d89edba30f268d94f99df
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+
+exports
+dir
+
+SDL_main.c
+file
+
+
+
+
+2009-01-31T15:28:53.000000Z
+bd5cfacb9d5183d7bb52e6cbe0275e97
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+
+SIZE.r
+file
+
+
+
+
+2009-01-31T15:28:53.000000Z
+1b44d2a2f5977e87c86477de83afe6f5
+2009-01-09T06:28:53.550771Z
+3
+yohanes
+

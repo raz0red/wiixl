@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10/trunk/SDL/src/joystick/win32
+END
+SDL_mmjoystick.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10/trunk/SDL/src/joystick/win32/SDL_mmjoystick.c
+END

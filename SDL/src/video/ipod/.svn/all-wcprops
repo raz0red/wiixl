@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/10/trunk/SDL/src/video/ipod
+END
+SDL_ipodvideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/SDL/src/video/ipod/SDL_ipodvideo.c
+END
+SDL_ipodvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/SDL/src/video/ipod/SDL_ipodvideo.h
+END
